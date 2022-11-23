@@ -1,2 +1,2 @@
-# NEARA-Assessment
+# Assessment
 hockeyrink.geospatial.is
