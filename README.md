@@ -1,2 +1,2 @@
 # Assessment
-hockeyrink.geospatial.is
+research.geospatial.is
